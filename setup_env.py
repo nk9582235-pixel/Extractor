@@ -36,7 +36,7 @@ def create_env_file():
         bot_token = "8508365196:AAFQF5mD5RFEq1YBYxztSgPIjt0clxUhMzE"
     
     # MongoDB is already configured
-    mongodb_uri = "mongodb+srv://nk9582235_db_user:Ia9NKRoQXPsM5szz@cluster0.akuzmvw.mongodb.net/?appName=Cluster0"
+    mongodb_uri = "mongodb+srv://nk9582235_db_user:TVM1VuULifESdFb9@cluster0.gsewrqr.mongodb.net/?appName=Cluster0"
     database_name = "classplus_extractor"
     
     print()
@@ -113,3 +113,4 @@ VALIDATE_SSL=True
 
 if __name__ == "__main__":
     create_env_file()
+
